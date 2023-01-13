@@ -146,6 +146,5 @@ EMAIL_HOST_USER = 'sunnydada550@gmail.com'
 EMAIL_HOST_PASSWORD = 'ovqt ewug uxkv xzcv' 
 
 
-STATICFILES_DIRS = os.path.join(BASE_DIR,'static'),
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles_build', 'static')
+
 
